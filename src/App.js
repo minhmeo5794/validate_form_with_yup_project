@@ -23,7 +23,7 @@ function App() {
 		console.log(data)
 		setSubmit(true)
 	}
-	console.log('Errors!!: ', errors)
+	// console.log('Errors!!: ', errors)
 
 	return (
 		<div className="app">
